@@ -38,6 +38,12 @@
         "theme",
         "ghost-theme"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jtmkrueger/casper-solarized.git"
+    },
+    "bugs": "https://github.com/TryGhost/Casper/issues",
+    "contributors": "https://github.com/TryGhost/Casper/graphs/contributors",
     "devDependencies": {
         "@tryghost/release-utils": "0.3.2",
         "autoprefixer": "9.5.1",
